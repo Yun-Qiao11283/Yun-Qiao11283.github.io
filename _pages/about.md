@@ -26,11 +26,11 @@ Expected May 2027 · **GPA: 3.981 / 4.0** · Honors Program
 
 ## Featured research
 
-### Topological Data Analysis for Equity Markets
+### Financial TDA
 
-I investigate how persistent homology can reveal structural changes in equity markets during macroeconomic shocks. My ongoing work develops a Python pipeline for constructing simplicial complexes and extracting the L₁ norm of persistence landscapes, with the goal of studying early warnings of systemic market instability.
+I explore changing relationships between financial assets using a Python pipeline that combines hierarchical clustering, return normality tests, PCA visualization, and persistent homology. The project computes separate H₀ and H₁ persistence landscape L₁ amplitudes over rolling windows and exports charts and CSV files. It supports exploratory, retrospective research and does not include strategy backtesting or an evaluation of market crisis prediction performance.
 
-[Read about the TDA project →]({{ '/research/' | relative_url }})
+[Read about the TDA project →]({{ '/research/' | relative_url }}) · [GitHub repository](https://github.com/Yun-Qiao11283/TDA)
 
 ## Honors & awards
 

@@ -22,13 +22,13 @@ Expected May 2027 · **GPA: 3.981 / 4.0** · Honors Program Student
 
 ## Selected research
 
-**Topological Data Analysis (TDA) for Equity Markets**<br>
+**Financial TDA**<br>
 The Ohio State University · September 2025 – Present<br>
 Supervised by Ph.D. Candidate Krnic Luci
 
-Applying persistent homology to study structural changes in a market manifold of core U.S. equities and safe-haven assets. Developing a Python pipeline to construct simplicial complexes and extract the L₁ norm of persistence landscapes, with the goal of quantifying topological phase transitions and investigating early warnings of systemic market crashes.
+Exploring financial asset relationships with a Python pipeline combining Ward hierarchical clustering, return normality tests, PCA visualization, and rolling-window Vietoris-Rips persistent homology. Computing separate H₀ and H₁ persistence landscape L₁ amplitudes and exporting charts and CSV files. The project is exploratory and retrospective; it does not include strategy backtesting or an evaluation of market crisis prediction performance.
 
-[Project details →]({{ '/research/' | relative_url }})
+[Project details →]({{ '/research/' | relative_url }}) · [GitHub repository](https://github.com/Yun-Qiao11283/TDA)
 
 ## Honors & awards
 

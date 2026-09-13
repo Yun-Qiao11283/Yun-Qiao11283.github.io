@@ -13,7 +13,7 @@ This site uses the existing Academic Pages / Jekyll template.
 - `_data/navigation.yml`: About, Research, and CV navigation.
 - `assets/css/profile.css`: responsive additions to the original theme.
 
-The text follows the supplied CV. The TDA pipeline is work in progress. Unverified details from the previous homepage (asset counts, library names, and thesis status) are omitted.
+Personal information follows the supplied CV. TDA project descriptions on About, Research, and the web CV follow the Financial TDA repository README (https://github.com/Yun-Qiao11283/TDA#readme). The downloadable original CV is unchanged and may contain an earlier project description.
 
 ## Preview and publish
 
