@@ -1,0 +1,10 @@
+/* Personal additions to the Academic Pages theme. */
+.author__avatar img { border-radius: 12px; max-width: 175px; }
+.profile-eyebrow { font-size: .7em; font-weight: 700; letter-spacing: .12em; color: var(--global-link-color); margin-bottom: 1.4em; }
+.profile-actions { display: flex; flex-wrap: wrap; gap: .6rem; margin: 1.5rem 0 2rem; }
+.profile-actions .btn { margin: 0; }
+.page__content { line-height: 1.75; }
+.page__content h2 { margin-top: 2em; padding-bottom: .4em; }
+.research-keywords { display: flex; flex-wrap: wrap; gap: .5rem; margin: 1.5rem 0; }
+.research-keywords span { font-size: .75em; border: 1px solid var(--global-border-color); border-radius: 5px; padding: .2rem .6rem; }
+@media (max-width: 767px) { .author__avatar img { max-width: 100%; } .profile-eyebrow { letter-spacing: .06em; } }

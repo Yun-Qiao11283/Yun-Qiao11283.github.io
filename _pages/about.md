@@ -1,32 +1,43 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a third-year Honors undergraduate student at [The Ohio State University](https://math.osu.edu/), majoring in Mathematics with a minor in Computer Science (GPA: 3.98/4.00). My academic passion lies at the intersection of pure mathematics and scientific computing, specifically focusing on how abstract mathematical frameworks can resolve complex, high-dimensional challenges in real-world systems. 
+<p class="profile-eyebrow">MATHEMATICS · SCIENTIFIC COMPUTING</p>
 
-I am actively seeking **Summer research opportunities** in Operations Research (OR), Applied Mathematics, and Quantitative Finance.
+I am **Yun Qiao**, an Honors undergraduate at **The Ohio State University**, pursuing a Bachelor of Science in Mathematics with a minor in Computer Science. I expect to graduate in **May 2027**.
 
-## Research Interests
+My research interests center on large-scale computational optimization and numerical linear algebra. I am interested in efficient algorithms for high-dimensional problems, including second-order and quasi-Newton methods, preconditioning, and Krylov subspace methods.
 
-* **Large-Scale Computational Optimization & Numerical Linear Algebra:** Developing robust second-order and quasi-Newton algorithms (e.g., Trust Region, Preconditioned Conjugate Gradient) to overcome convergence bottlenecks in high-dimensional machine learning and numerical PDE solvers.
-* **Topological Data Analysis (TDA) for Complex Systems:** Investigating non-linear structural shifts in high-dimensional manifolds during macroeconomic shocks to construct threshold-free early warning frameworks for systemic market instability.
+<div class="profile-actions">
+  <a class="btn btn--primary" href="{{ '/research/' | relative_url }}">Explore my research</a>
+  <a class="btn" href="mailto:qiao.247@osu.edu">Get in touch</a>
+</div>
 
-## Current Research
+## Education
 
-### Topological Feature Analysis of Market Volatility (Senior Honors Thesis)
-*Advised by Ph.D. Candidate Krnic Luci, Department of Mathematics, OSU | Sep 2025 – Present*
+**The Ohio State University** · Columbus, Ohio<br>
+B.S. in Mathematics · Minor in Computer Science<br>
+Expected May 2027 · **GPA: 3.981 / 4.0** · Honors Program
 
-I am investigating the limitations of traditional financial models in capturing high-dimensional structural shifts during macroeconomic shocks. By applying Topological Data Analysis (TDA)—specifically persistent homology—to a comprehensive market manifold comprising 30 core US equities and exogenous safe-haven assets, I am developing a robust computational pipeline using Python (`Giotto-tda`, `Ripser`). This framework constructs simplicial complexes from high-frequency time series and extracts the $L_1$ norm of Persistence Landscapes. The ultimate goal is to rigorously quantify topological phase transitions, delivering a threshold-free early warning system to anticipate systemic market crashes.
+## Featured research
 
-### Numerical Optimization and PDE Solvers
-*Research Assistant, Lab of [Prof. Anna Yesypenko](https://annayesy.github.io/), Department of Mathematics, OSU | Jan 2026 – Present*
+### Topological Data Analysis for Equity Markets
 
-Driven by the need for enhanced computational efficiency in machine learning and physical simulations, I am investigating the scalability and convergence limitations of classical optimization strategies. My current work focuses on the implementation and benchmarking of robust numerical solver architectures, including Steepest Descent, Newton’s Method, Conjugate Gradient (CG), and Trust Region algorithms. Furthermore, I am developing modular C++/Python solvers to evaluate the efficiency of iterative methods—specifically Multigrid and Preconditioned Conjugate Gradient—in solving the large-scale sparse matrices that arise from the discretization (FDM/FEM) of elliptic and parabolic PDEs.
+I investigate how persistent homology can reveal structural changes in equity markets during macroeconomic shocks. My ongoing work develops a Python pipeline for constructing simplicial complexes and extracting the L₁ norm of persistence landscapes, with the goal of studying early warnings of systemic market instability.
 
----
-*Please feel free to reach out via [email](mailto:qiao.247@osu.edu) or connect with me on [GitHub](https://github.com/Yun-Qiao11283).*
+[Read about the TDA project →]({{ '/research/' | relative_url }})
+
+## Honors & awards
+
+- **Dean’s List** — Five consecutive semesters: Autumn 2023, Spring 2024, Autumn 2024, Spring 2025, and Autumn 2025.
+- **Mathematics Department Scholarship** — Recognition for academic performance and potential in mathematical research.
+- **First Prize for Academic Scholarship** — Recognition for academic achievement in Honors coursework.
+
+## Contact
+
+I am based in Columbus, Ohio. Reach me at [qiao.247@osu.edu](mailto:qiao.247@osu.edu) or find me on [GitHub](https://github.com/Yun-Qiao11283).
