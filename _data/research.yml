@@ -1,0 +1,13 @@
+# Add one entry per research project; entries appear in this order.
+# Keep summaries brief. Technical details belong in the linked repository.
+- title: "Financial TDA"
+  dates: "September 2025 – Present"
+  institution: "The Ohio State University"
+  supervisor: "Ph.D. Candidate Krnic Luci"
+  summary: >-
+    Exploring changing relationships between financial assets using hierarchical
+    clustering and persistent homology. This Python project combines return
+    diagnostics and visualization with rolling-window topological analysis,
+    exporting charts and data for exploratory, retrospective research.
+  github: "https://github.com/Yun-Qiao11283/TDA"
+  poster: "https://github.com/Yun-Qiao11283/TDA/blob/HEAD/poster/TDA.pdf"

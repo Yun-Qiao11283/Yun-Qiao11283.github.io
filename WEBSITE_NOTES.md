@@ -5,7 +5,8 @@ This site uses the existing Academic Pages / Jekyll template.
 ## Editing
 
 - `_pages/about.md`: biography, education, awards, and contact.
-- `_pages/research.md`: TDA for Equity Markets only.
+- `_pages/research.md`: research interests and a concise project list.
+- `_data/research.yml`: project titles, dates, supervisors, summaries, and links. Append an entry here to add a future research project.
 - `_pages/cv.md`: education, selected TDA research, awards, and coursework.
 - `files/Yun_Qiao_CV.pdf`: original CV, unchanged, including the full research history.
 - `images/yun-qiao.jpg`: original portrait.
