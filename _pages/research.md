@@ -2,22 +2,28 @@
 permalink: /research/
 title: "Research"
 author_profile: true
-description: "Yun Qiao's research interests in computational optimization and numerical linear algebra, and selected research projects."
+description: "Yun Qiao's research in computational mathematics and scientific computing, with current interests in large-scale optimization and numerical linear algebra."
 ---
 
-My research interests lie in **large-scale computational optimization** and **numerical linear algebra**. I am interested in mathematical and computational methods for understanding complex, high-dimensional systems.
+I am broadly interested in **computational mathematics and scientific computing**, with current interests in **large-scale optimization and numerical linear algebra**. I am particularly interested in algorithms that exploit mathematical structure to solve high-dimensional problems efficiently and reliably.
 
-## Research projects
+Topics that currently interest me include second-order and quasi-Newton optimization methods, iterative methods for large linear systems, preconditioning, and Krylov subspace methods.
+
+My previous research has also involved topological data analysis and computational methods for high-dimensional data.
+
+## Research Projects
 
 {% for project in site.data.research %}
 ### {{ project.title }}
 
-**{{ project.dates }}** · {{ project.institution }}<br>
-Supervised by **{{ project.supervisor }}**
+**{{ project.dates }} · {{ project.institution }}**<br>
+**Advisor:** {{ project.supervisor }}
 
 {{ project.summary }}
 
-[GitHub]({{ project.github }}){% if project.poster %} · [Project poster]({{ project.poster }}){% endif %}
+{% if project.methods %}**Methods:** {{ project.methods }}{% endif %}
+
+[GitHub Repository]({{ project.github }}){% if project.poster %} · [Project Poster]({{ project.poster }}){% endif %}
 
 {% unless forloop.last %}
 ---

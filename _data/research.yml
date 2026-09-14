@@ -1,13 +1,15 @@
 # Add one entry per research project; entries appear in this order.
-# Keep summaries brief. Technical details belong in the linked repository.
-- title: "Financial TDA"
+# Use a literal block for a summary with multiple Markdown paragraphs.
+- title: "Financial Topological Data Analysis"
   dates: "September 2025 – May 2026"
   institution: "The Ohio State University"
-  supervisor: "Ph.D. Candidate Krnic Luci"
-  summary: >-
-    Explored changing relationships between financial assets using hierarchical
-    clustering and persistent homology. This Python project combines return
-    diagnostics and visualization with rolling-window topological analysis,
-    exporting charts and data for exploratory, retrospective research.
+  supervisor: "Krnic Luci, Ph.D. Candidate"
+  summary: |-
+    This project investigated changes in the dependence structure of financial assets through **topological data analysis (TDA)** and statistical visualization.
+
+    I developed a Python-based computational pipeline combining hierarchical clustering, return-distribution diagnostics, principal component analysis, and persistent homology. The analysis was performed over rolling time windows to examine how the geometric and topological structure of the data changes over time.
+
+    For each window, the pipeline computed persistent homology in dimensions H₀ and H₁ and summarized the resulting persistence landscapes using their L₁ amplitudes. The project produced visualizations and structured data outputs for exploratory and retrospective analysis.
+  methods: "Persistent Homology · Persistence Landscapes · Hierarchical Clustering · PCA · Rolling-Window Analysis · Python"
   github: "https://github.com/Yun-Qiao11283/TDA"
   poster: "https://github.com/Yun-Qiao11283/TDA/blob/HEAD/poster/TDA.pdf"
