@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About Me"
 author_profile: true
 redirect_from:
   - /about/
@@ -9,9 +9,11 @@ redirect_from:
 
 <p class="profile-eyebrow">MATHEMATICS · SCIENTIFIC COMPUTING</p>
 
-I am **Yun Qiao**, an Honors undergraduate at **The Ohio State University**, pursuing a Bachelor of Science in Mathematics with a minor in Computer Science. I expect to graduate in **May 2027**.
+I am Yun Qiao, an Honors undergraduate at The Ohio State University pursuing a B.S. in Mathematics with a minor in Computer Science. I expect to graduate in May 2027.
 
-My research interests center on large-scale computational optimization and numerical linear algebra. I am interested in efficient algorithms for high-dimensional problems, including second-order and quasi-Newton methods, preconditioning, and Krylov subspace methods.
+My current research interests are in **computational optimization, numerical linear algebra, and scientific computing**. I am particularly interested in efficient numerical methods for large-scale problems, including second-order and quasi-Newton methods, preconditioning, and Krylov subspace methods.
+
+My research experience has also included the use of **topological data analysis and computational methods for high-dimensional data**, with applications to financial time series.
 
 <div class="profile-actions">
   <a class="btn btn--primary" href="{{ '/research/' | relative_url }}">Explore my research</a>
@@ -22,22 +24,24 @@ My research interests center on large-scale computational optimization and numer
 
 **The Ohio State University** · Columbus, Ohio<br>
 B.S. in Mathematics · Minor in Computer Science<br>
-Expected May 2027 · **GPA: 3.981 / 4.0** · Honors Program
+Expected May 2027 · GPA: 3.981 / 4.0 · Honors Program
 
-## Featured research
+## Selected Research
 
-### Financial TDA
+### Financial Topological Data Analysis
 
-I explored changing relationships between financial assets using a Python pipeline that combines hierarchical clustering, return normality tests, PCA visualization, and persistent homology. The project computes separate H₀ and H₁ persistence landscape L₁ amplitudes over rolling windows and exports charts and CSV files. It supports exploratory, retrospective research and does not include strategy backtesting or an evaluation of market crisis prediction performance.
+I studied time-varying structure in financial data using a computational pipeline combining hierarchical clustering, statistical diagnostics, PCA, and persistent homology. Using rolling-window analysis, the project examined how topological summaries of financial asset relationships evolve over time.
 
-[Read about the TDA project →]({{ '/research/' | relative_url }}) · [GitHub repository](https://github.com/Yun-Qiao11283/TDA)
+[Read about the project →]({{ '/research/' | relative_url }}) · [GitHub repository](https://github.com/Yun-Qiao11283/TDA)
 
-## Honors & awards
+## Honors & Awards
 
 - **Dean’s List** — Five consecutive semesters: Autumn 2023, Spring 2024, Autumn 2024, Spring 2025, and Autumn 2025.
-- **Mathematics Department Scholarship** — Recognition for academic performance and potential in mathematical research.
-- **First Prize for Academic Scholarship** — Recognition for academic achievement in Honors coursework.
+- **Mathematics Department Scholarship** — Awarded in recognition of academic performance and potential in mathematical research.
+- **First Prize for Academic Scholarship** — Awarded for academic achievement in Honors coursework.
 
 ## Contact
 
-I am based in Columbus, Ohio. Reach me at [qiao.247@osu.edu](mailto:qiao.247@osu.edu) or find me on [GitHub](https://github.com/Yun-Qiao11283).
+I am an undergraduate student at The Ohio State University in Columbus, Ohio.
+
+You can reach me at **[qiao.247@osu.edu](mailto:qiao.247@osu.edu)** or find my work on **[GitHub](https://github.com/Yun-Qiao11283)**.
