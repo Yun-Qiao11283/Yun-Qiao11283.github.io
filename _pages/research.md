@@ -5,7 +5,7 @@ author_profile: true
 description: "Yun Qiao's research in computational mathematics and scientific computing, with current interests in large-scale optimization and numerical linear algebra."
 ---
 
-I am broadly interested in **computational mathematics and scientific computing**, with current interests in **large-scale optimization and numerical linear algebra**. I am particularly interested in algorithms that exploit mathematical structure to solve high-dimensional problems efficiently and reliably.
+I am broadly interested in **computational mathematics and scientific computing**, with current interests in **large-scale optimization and numerical linear algebra**. I am particularly interested in numerical algorithms that exploit mathematical structure to solve large-scale problems efficiently and reliably.
 
 Topics that currently interest me include second-order and quasi-Newton optimization methods, iterative methods for large linear systems, preconditioning, and Krylov subspace methods.
 
