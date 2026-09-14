@@ -2,10 +2,10 @@
 permalink: /research/
 title: "Research"
 author_profile: true
-description: "Yun Qiao's research interests and selected projects in computational mathematics and topological data analysis."
+description: "Yun Qiao's research interests in computational optimization and numerical linear algebra, and selected research projects."
 ---
 
-My research interests lie in **large-scale computational optimization**, **numerical linear algebra**, and **topological data analysis**. I am interested in mathematical and computational methods for understanding complex, high-dimensional systems.
+My research interests lie in **large-scale computational optimization** and **numerical linear algebra**. I am interested in mathematical and computational methods for understanding complex, high-dimensional systems.
 
 ## Research projects
 

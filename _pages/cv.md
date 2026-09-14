@@ -23,10 +23,10 @@ Expected May 2027 · **GPA: 3.981 / 4.0** · Honors Program Student
 ## Selected research
 
 **Financial TDA**<br>
-The Ohio State University · September 2025 – Present<br>
+The Ohio State University · September 2025 – May 2026<br>
 Supervised by Ph.D. Candidate Krnic Luci
 
-Exploring financial asset relationships with a Python pipeline combining Ward hierarchical clustering, return normality tests, PCA visualization, and rolling-window Vietoris-Rips persistent homology. Computing separate H₀ and H₁ persistence landscape L₁ amplitudes and exporting charts and CSV files. The project is exploratory and retrospective; it does not include strategy backtesting or an evaluation of market crisis prediction performance.
+Explored financial asset relationships with a Python pipeline combining Ward hierarchical clustering, return normality tests, PCA visualization, and rolling-window Vietoris-Rips persistent homology. Computed separate H₀ and H₁ persistence landscape L₁ amplitudes and exporting charts and CSV files. The project is exploratory and retrospective; it does not include strategy backtesting or an evaluation of market crisis prediction performance.
 
 [Project details →]({{ '/research/' | relative_url }}) · [GitHub repository](https://github.com/Yun-Qiao11283/TDA)
 

@@ -28,7 +28,7 @@ Expected May 2027 · **GPA: 3.981 / 4.0** · Honors Program
 
 ### Financial TDA
 
-I explore changing relationships between financial assets using a Python pipeline that combines hierarchical clustering, return normality tests, PCA visualization, and persistent homology. The project computes separate H₀ and H₁ persistence landscape L₁ amplitudes over rolling windows and exports charts and CSV files. It supports exploratory, retrospective research and does not include strategy backtesting or an evaluation of market crisis prediction performance.
+I explored changing relationships between financial assets using a Python pipeline that combines hierarchical clustering, return normality tests, PCA visualization, and persistent homology. The project computes separate H₀ and H₁ persistence landscape L₁ amplitudes over rolling windows and exports charts and CSV files. It supports exploratory, retrospective research and does not include strategy backtesting or an evaluation of market crisis prediction performance.
 
 [Read about the TDA project →]({{ '/research/' | relative_url }}) · [GitHub repository](https://github.com/Yun-Qiao11283/TDA)
 
