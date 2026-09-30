@@ -1,15 +1,33 @@
-# Add one entry per research project; entries appear in this order.
-# Use a literal block for a summary with multiple Markdown paragraphs.
-- title: "Financial Topological Data Analysis"
+# Projects in display order. Links are optional.
+- title: "Quasi-Newton Methods for Large-Scale PDE-Constrained Optimization"
+  dates: "January 2026 – Present"
+  institution: "The Ohio State University"
+  role: "Research Assistant · Department of Mathematics"
+  supervisor: "Prof. Anna Yesypenko"
+  summary: |-
+    I investigate quasi-Newton methods for large-scale PDE-constrained optimization within a variational framework. My work also studies randomized sketching approaches to reduce computational cost while preserving numerical accuracy.
+  methods: "Quasi-Newton Methods · Randomized Sketching · PDE-Constrained Optimization"
+
+- title: "LLMAdBench: A Human Preference Benchmark for Advertising in LLM Responses"
+  dates: "May 2026 – Present"
+  institution: "The University of Texas at Dallas"
+  role: "Research Contributor"
+  supervisor: "Prof. Chonghuan Wang, Naveen Jindal School of Management"
+  summary: |-
+    I contributed to a benchmark examining how advertisement placement and sponsorship disclosure affect human preferences for LLM-generated responses. My contributions include pairwise preference annotation across six dimensions covering user experience, advertiser value, and overall preference.
+
+    I helped construct a benchmark containing **18,576 dimension-level human judgments** from **258 source conversations**, spanning four advertisement placements and two disclosure conditions.
+  methods: "Pairwise Preference Annotation · Benchmark Dataset Construction"
+
+- title: "Topological Data Analysis (TDA) for Equity Markets"
   dates: "September 2025 – May 2026"
   institution: "The Ohio State University"
-  supervisor: "Krnic Luci, Ph.D. Candidate"
+  advisor_label: "Research Mentor"
+  supervisor: "Luči Krnić, Ph.D. Candidate"
   summary: |-
-    This project investigated changes in the dependence structure of financial assets through **topological data analysis (TDA)** and statistical visualization.
+    I investigated relationships among financial assets using a retrospective Python pipeline combining Ward hierarchical clustering, return normality tests, and PCA visualization.
 
-    I developed a Python-based computational pipeline combining hierarchical clustering, return-distribution diagnostics, principal component analysis, and persistent homology. The analysis was performed over rolling time windows to examine how the geometric and topological structure of the data changes over time.
-
-    For each window, the pipeline computed persistent homology in dimensions H₀ and H₁ and summarized the resulting persistence landscapes using their L₁ amplitudes. The project produced visualizations and structured data outputs for exploratory and retrospective analysis.
+    Using correlation-based distances, I computed rolling-window Vietoris-Rips persistent homology and extracted separate H₀ and H₁ persistence landscape L₁ amplitudes to summarize changes in asset topology over time. Outputs included topology time series, persistence diagrams, and statistical visualizations for retrospective analysis of financial market structure.
   methods: "Persistent Homology · Persistence Landscapes · Hierarchical Clustering · PCA · Rolling-Window Analysis · Python"
   github: "https://github.com/Yun-Qiao11283/TDA"
   poster: "https://github.com/Yun-Qiao11283/TDA/blob/HEAD/poster/TDA.pdf"

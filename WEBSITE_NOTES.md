@@ -7,14 +7,14 @@ This site uses the existing Academic Pages / Jekyll template.
 - `_pages/about.md`: biography, education, awards, and contact.
 - `_pages/research.md`: research interests and a concise project list.
 - `_data/research.yml`: project titles, dates, supervisors, summaries, and links. Append an entry here to add a future research project.
-- `_pages/cv.md`: education, selected TDA research, awards, and coursework.
-- `files/Yun_Qiao_CV.pdf`: original CV, unchanged, including the full research history.
+- `_pages/cv.md`: education, all research experiences, manuscript status, awards, coursework, and skills.
+- `files/Yun_Qiao_CV.pdf`: latest supplied CV (updated September 30, 2026), copied without editing.
 - `images/yun-qiao.jpg`: original portrait.
 - `_config.yml`: identity, metadata, and demo content exclusions.
 - `_data/navigation.yml`: About, Research, and CV navigation.
 - `assets/css/profile.css`: responsive additions to the original theme.
 
-Personal information follows the supplied CV. TDA project descriptions on About, Research, and the web CV follow the Financial TDA repository README (https://github.com/Yun-Qiao11283/TDA#readme). The downloadable original CV is unchanged and may contain an earlier project description.
+Website content follows the CV supplied September 30, 2026. All three research experiences and the manuscript under review are included. The PDF lists six Dean’s List semesters while saying five; web pages list the semesters without a count. The original PDF is preserved as supplied. TDA code and poster links remain available.
 
 ## Preview and publish
 

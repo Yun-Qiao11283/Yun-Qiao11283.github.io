@@ -11,9 +11,9 @@ redirect_from:
 
 I am an Honors undergraduate at The Ohio State University pursuing a B.S. in Mathematics with a minor in Computer Science. I expect to graduate in May 2027.
 
-My current research interests are in **computational optimization, numerical linear algebra, and scientific computing**. I am particularly interested in efficient numerical methods for large-scale problems, including second-order and quasi-Newton methods, preconditioning, and Krylov subspace methods.
+My current research interests are in **computational optimization, numerical linear algebra, and scientific computing**. I am particularly interested in efficient numerical methods for large-scale problems, including second-order and quasi-Newton methods, randomized sketching, preconditioning, and Krylov subspace methods.
 
-My research experience has also included **topological data analysis and computational methods for high-dimensional data**, with applications to financial time series.
+I am a research assistant at The Ohio State University working on **quasi-Newton methods for PDE-constrained optimization** with Prof. Anna Yesypenko. My experience also includes human-preference benchmarking for LLM responses and topological data analysis of financial time series.
 
 <div class="profile-actions">
   <a class="btn btn--primary" href="{{ '/research/' | relative_url }}">Explore my research</a>
@@ -24,21 +24,29 @@ My research experience has also included **topological data analysis and computa
 
 **The Ohio State University** · Columbus, Ohio<br>
 B.S. in Mathematics · Minor in Computer Science<br>
-Expected May 2027 · GPA: 3.981 / 4.0 · Honors Program
+Expected May 2027 · GPA: 3.962 / 4.0 · Honors Program
 
 ## Selected Research
 
-### Financial Topological Data Analysis
+### Quasi-Newton Methods for PDE-Constrained Optimization
 
-I studied changing relationships among financial assets using statistical methods and topological data analysis. Using rolling-window persistent homology, the project examined how the geometric and topological structure of asset relationships evolved over time.
+I investigate quasi-Newton methods within a variational framework and study randomized sketching to reduce computational cost while preserving numerical accuracy.
 
-[Read about the project →]({{ '/research/' | relative_url }}) · [GitHub repository](https://github.com/Yun-Qiao11283/TDA)
+### LLMAdBench
+
+I contributed preference annotations and helped construct a benchmark studying how advertisement placement and sponsorship disclosure affect preferences for LLM-generated responses. I am a co-author of the manuscript, currently under review at ICLR 2027.
+
+### Topological Data Analysis for Equity Markets
+
+I studied changing relationships among financial assets using statistical diagnostics and rolling-window persistent homology, producing visualizations and structured data for retrospective analysis.
+
+[Explore all research projects →]({{ '/research/' | relative_url }}) · [TDA GitHub repository](https://github.com/Yun-Qiao11283/TDA)
 
 ## Honors & Awards
 
-- **Dean’s List** — Five consecutive semesters: Autumn 2023, Spring 2024, Autumn 2024, Spring 2025, and Autumn 2025.
-- **Mathematics Department Scholarship** — Awarded for academic performance and potential in mathematical research.
-- **First Prize for Academic Scholarship** — Awarded for academic achievement in Honors coursework.
+- **Dean’s List** — Autumn 2023, Spring 2024, Autumn 2024, Spring 2025, Autumn 2025, and Spring 2026.
+- **Mathematics Department Scholarship**
+- **Academic Scholarship (First Prize)**
 
 ## Contact
 
